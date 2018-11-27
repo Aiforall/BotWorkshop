@@ -5,7 +5,16 @@ In this tutorial we will build a chatbot using Microsoft Azure services, and thi
 
 There are three main steps in creating a knowledge bot:
 
-![Three steps](https://github.com/galiya/BotWorkshop/assets/images/BotZeroCode.png)
+![Three steps](https://github.com/galiya/BotWorkshop/blob/master/assets/images/BotZeroCode.png)
+
+
+## Brainstorming
+
+You can start brainstorming your ideas with your team (or on your own) and ideally decide on the following below, before you start "building" the chatbot.
+- Bot Name: __________
+- Business challenge: __________ 
+- Target audience: __________ 
+- Bot personality: __________ 
 
 ## Team roles & responsibilities
 
@@ -33,3 +42,8 @@ Please review [this document](https://github.com/galiya/BotWorkshop/assets/docum
 Your role is to work closely with the Curator to ensure the personality of the bot is in the answers. You could either edit the answers the Curator has created or you can create in partnership, whichever is easier for you both. The Architect will get you setup.
 
 Please review [this document](https://github.com/galiya/BotWorkshop/assets/documents/Parent.docx) and the support team are here to guide you.
+
+## Other resources
+- Principles of bot design: [here](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-design-principles?view=azure-bot-service-4.0)
+- An example of integrating telemetry to QnA Bot (C# bot): [here](https://github.com/Microsoft/BotBuilder-Samples/tree/master/samples/csharp_dotnetcore/20.qna-with-appinsights)
+- Samples in a variety of programming languages: [here](https://github.com/Microsoft/BotBuilder-Samples/tree/master/samples)
