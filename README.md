@@ -31,17 +31,17 @@ You can start brainstorming your ideas with your team (or on your own) and ideal
 ### The Architect
 You are going to get the team started, later you will connect the Knowledge QnAMaker to The Web App Bot to test the bot in a connected chat environment. We are going to walk through the steps to get everything ready.
 
-Please review [this document](https://github.com/galiya/BotWorkshop/assets/documents/Architect.docx) and the support team are here to guide you if you need any help.
+Please review [this document](https://github.com/galiya/BotWorkshop/assets/documents/Architect.docx?raw=true) and the support team are here to guide you if you need any help.
 
 ### The Curator(s)
 Your role is to build the questions and answers that make up the conversational experience, you will work closely with the Parent to ensure the personality of the bot is represented. The Architect will get you setup.
 
-Please review [this document](https://github.com/galiya/BotWorkshop/assets/documents/Curator.docx) and the support team are here to guide you.
+Please review [this document](https://github.com/galiya/BotWorkshop/assets/documents/Curator.docx?raw=true) and the support team are here to guide you.
 
 ### The Parent
 Your role is to work closely with the Curator to ensure the personality of the bot is in the answers. You could either edit the answers the Curator has created or you can create in partnership, whichever is easier for you both. The Architect will get you setup.
 
-Please review [this document](https://github.com/galiya/BotWorkshop/assets/documents/Parent.docx) and the support team are here to guide you.
+Please review [this document](https://github.com/galiya/BotWorkshop/assets/documents/Parent.docx?raw=true) and the support team are here to guide you.
 
 ## Other resources
 - Principles of bot design: [here](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-design-principles?view=azure-bot-service-4.0)
